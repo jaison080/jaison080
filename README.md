@@ -9,10 +9,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: jaisondennis090@gmail.com
 - 😄 Pronouns: He/Him
 -->
-<p align="center">
-  <img src="https://assets.gocoderz.xyz/site/wp-content/uploads/2017/02/shutterstock_239157115-460x320.jpg" height="200"/>
-</p>
-<br>
 
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=jaison080&color=brightgreen" alt="watching_count" />
@@ -85,7 +81,7 @@ Here are some ideas to get you started:
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
   </a>
   &emsp;
-  <a href="https://reactjs.org/" target="_blank"> React
+  <a href="https://reactjs.org/" target="_blank">
     <img alt="React" src="https://img.shields.io/badge/-React-blue"/>
   </a>
 </p>
@@ -97,7 +93,7 @@ Here are some ideas to get you started:
 &emsp;
    <a href="https://www.netlify.com"><img alt="Netlify" src="https://img.shields.io/badge/-Netlify-green"></a>
   &emsp;
-   <a href="https://img.shields.io/badge/-Cloudflare-yellowgreen"><img alt="CloudFlare" src="https://img.shields.io/badge/-Netlify-green"></a>
+   <a href="https://www.cloudflare.com"><img alt="CloudFlare" src="https://img.shields.io/badge/-Cloudflare-yellowgreen"></a>
  </p>
 
  ### 👉 Software & Tools
