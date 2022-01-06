@@ -51,6 +51,16 @@ Here are some ideas to get you started:
 ✔ Ask me anything you want, If I am there I will answer within seconds 😉<br>
 ✔ Fun fact : *I Always try to learn something new and then sleep till it stores in my brain* 😎<br><br><br><br>
 
+
+### Spotify Playing 🎧
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)
+
+
+---
+
+<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=adamsyy&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
+
 ## 🛠️ My Skills
 
 ### 👉 Programming languages
@@ -62,15 +72,15 @@ Here are some ideas to get you started:
    </a>
   &emsp;
   <a href="">
-    <img alt="C" src="https://img.shields.io/badge/-C-blue"/>
+    <img alt="C" src="https://img.shields.io/badge/-C-%23F05032?style=flat-square&logo=c&logoColor=%23ffffff"/>
   </a>
   &emsp;
   <a href="">
-    <img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-orange"/>
+    <img alt="C++" src="http://img.shields.io/badge/-C++-A8B9CC?style=flat-square&logo=c++&logoColor=ffffff"/>
   </a>
   &emsp;
   <a href="">
-    <img alt="Java" src="https://img.shields.io/badge/-Java-lightgrey"/>
+    <img alt="Java" src="https://img.shields.io/badge/-Java-61DAFB?style=flat-square&logo=java&logoColor=ffffff"/>
   </a>
   &emsp;
   <a href="">
@@ -94,7 +104,7 @@ Here are some ideas to get you started:
   </a>
   &emsp;
   <a href="https://reactjs.org/" target="_blank">
-    <img alt="React" src="https://img.shields.io/badge/-React-blue"/>
+    <img alt="React" src="https://img.shields.io/badge/-React-%23E44D27?style=flat-square&logo=react&logoColor=ffffff"/>
   </a>
 </p>
 
@@ -113,8 +123,12 @@ Here are some ideas to get you started:
 <p>
   &emsp;
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
+ &emsp;
+    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github"></a>
   &emsp;
     <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"></a>
+ &emsp;
+    <a href="#"><img alt="Windows" src="http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff"></a>
   &emsp;
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   &emsp;
