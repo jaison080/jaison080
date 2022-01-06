@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <em>
-    Hello, I am Jaison Dennis a <b>2018</b> undergraduate from <a href="https://mec.ac.in/"> <b>Model Engineering College</b>, Thrikkakara</a>. <br>
+    Hello, I am Jaison Dennis an undergrad from <a href="https://mec.ac.in/"> <b>Model Engineering College</b>, Thrikkakara</a>. <br>
     <b>A Passionate Self-Learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Frontend Developer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
     with <b>development</b> and always looking to find new solutions for <b> websites </b> to learn and develop. 
   </em> 
@@ -61,8 +61,20 @@ Here are some ideas to get you started:
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
    </a>
   &emsp;
-  <a href="https://www.php.net/">
-    <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"/>
+  <a href="">
+    <img alt="C" src="https://img.shields.io/badge/-C-blue"/>
+  </a>
+  &emsp;
+  <a href="">
+    <img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-orange"/>
+  </a>
+  &emsp;
+  <a href="">
+    <img alt="Java" src="https://img.shields.io/badge/-Java-lightgrey"/>
+  </a>
+  &emsp;
+  <a href="">
+    <img alt="Python" src="https://img.shields.io/badge/-Python-yellow"/>
   </a>
 </p>
 
