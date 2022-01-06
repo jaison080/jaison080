@@ -59,7 +59,6 @@ Here are some ideas to get you started:
 
 ---
 
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=adamsyy&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
 
 ## 🛠️ My Skills
 
@@ -153,7 +152,6 @@ Here are some ideas to get you started:
 
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git Profile Trophies</p><br>
 <img src="https://github-profile-trophy.vercel.app/?username=jaison080&theme=juicyfresh&no-bg=true" />
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaison080&" alt="jaison080" /></p>
 
 ![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=jaison080&theme=react-dark)
 
