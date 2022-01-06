@@ -10,10 +10,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 -->
 
-<p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=jaison080&color=brightgreen" alt="watching_count" />
- </p>
+
  <p align="center">
+ <img src="https://komarev.com/ghpvc/?username=jaison080&color=brightgreen" alt="watching_count" />
 <img src="https://img.shields.io/badge/Age-18-blue" />
   <img src="https://img.shields.io/badge/Focus-React-brightgreen" />
   <img src="https://img.shields.io/badge/Lives-Angamaly-success" />
