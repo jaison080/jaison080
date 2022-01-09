@@ -109,11 +109,11 @@ Here are some ideas to get you started:
 ### 👉 Databases & Cloud Hosting
 <p align="left">
   &emsp;
-    <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&llogo=github&logoColor=white"></a>
+    <a><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&llogo=github&logoColor=white"></a>
 &emsp;
-   <a href="https://www.netlify.com"><img alt="Netlify" src="https://img.shields.io/badge/-Netlify-green"></a>
+   <a><img alt="Netlify" src="https://img.shields.io/badge/-Netlify-green"></a>
   &emsp;
-   <a href="https://www.cloudflare.com"><img alt="CloudFlare" src="https://img.shields.io/badge/-Cloudflare-yellowgreen"></a>
+   <a><img alt="CloudFlare" src="https://img.shields.io/badge/-Cloudflare-yellowgreen"></a>
  </p>
 
  ### 👉 Software & Tools
