@@ -3,9 +3,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Web Development and Competitive Coding.
-- 🌱 I’m currently learning React
-- 💬 Ask me about Web Development
+- 🔭 I’m currently working on App Development and Competitive Coding.
+- 🌱 I’m currently learning Flutter
+- 💬 Ask me about Web Development and App Development
 - 📫 How to reach me: jaisondennis090@gmail.com
 - 😄 Pronouns: He/Him
 -->
@@ -14,24 +14,24 @@ Here are some ideas to get you started:
  <p align="center">
  <img src="https://komarev.com/ghpvc/?username=jaison080&color=brightgreen" alt="watching_count" />
 <img src="https://img.shields.io/badge/Age-18-blue" />
-  <img src="https://img.shields.io/badge/Focus-React-brightgreen" />
   <img src="https://img.shields.io/badge/Lives-Angamaly-success" />
+   <img src="https://img.shields.io/badge/Focus-Flutter-blue" />
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Malayalam-brightgreen" />
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Jaison Dennis </h1>
-<h3 align="center">Frontend Developer | Web Designer </h3>
+<h3 align="center">Web Developer | Flutter Developer | Coder</h3>
 <p align="center">
 <a href="https://www.hackerrank.com/jaison080" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="hack_jaison_dennis" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/jaison080/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="lin_jaison_dennis" height="30" width="40" /></a>  
- <a href = "mailto: jaisondennis080@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
+ <a href = "mailto: jaisondennis090@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
 </p>
 
 <p align="center">
   <em>
     Hello, I am Jaison Dennis an undergrad from <a href="http://mec.ac.in/" target="_blank"> <b>Model Engineering College</b>, Thrikkakara</a>. <br>
-    <b>A Passionate Self-Learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Frontend Developer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
-    with <b>development</b> and always looking to find new solutions for <b> websites </b> to learn and develop. 
+    <b>A Passionate Self-Learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Web and App Developer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
+    with <b>development</b> and always looking to find new solutions for <b> websites</b> and <b>apps</b> to learn and develop. 
   </em> 
   <br>
   <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "BETTER 3 HOURS TOO SOON THAN A MINUTE TOO LATE"</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
@@ -45,20 +45,16 @@ Here are some ideas to get you started:
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
 ✔ Callme: ***He/His***😊 <br>
-✔ I’m currently learning about **React**🥰<br>
-✔ I’m looking to collaborate with any **Frontend Development Projects**<br>
+✔ I’m currently learning about **Flutter**🥰<br>
+✔ I’m looking to collaborate with any **Web Development and App Development Projects**<br>
 ✔ Ask me anything you want, If I am there I will answer within seconds 😉<br>
-✔ Fun fact : *I Always try to learn something new and then sleep till it stores in my brain* 😎<br><br><br><br>
+✔ Fun fact : *I always try to learn something new and then sleep till it stores in my brain* 😎<br><br><br><br>
 
 ## 🛠️ My Skills
 
 ### 👉 Programming languages
 
 <p align="left"> 
-  &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
-   </a>
   &emsp;
   <a href="">
     <img alt="C" src="https://img.shields.io/badge/-C-%23F05032?style=flat-square&logo=c&logoColor=%23ffffff"/>
@@ -95,6 +91,19 @@ Here are some ideas to get you started:
   <a href="https://reactjs.org/" target="_blank">
     <img alt="React" src="https://img.shields.io/badge/-React-%23E44D27?style=flat-square&logo=react&logoColor=ffffff"/>
   </a>
+  &emsp;
+     <a href="https://nextjs.org" target="_blank"> 
+    <img alt="Next" src="https://img.shields.io/badge/Next-%23563D7C.svg?style=flat&logo=react&logoColor=white"/>
+  </a>
+  &emsp;
+   <a href="https://www.flutter.dev" target="_blank">
+    <img alt="Flutter" src="https://img.shields.io/badge/Flutter%20-%231572B6.svg?logo=flutter&logoColor=white">
+  </a> 
+  &emsp;
+  <a href="https://nodejs.org/" target="_blank">
+    <img alt="Node" src="https://img.shields.io/badge/-Node-%23E44D27?style=flat-square&logo=react&logoColor=ffffff"/>
+  </a>
+  &emsp;
 </p>
 
 ### 👉 Databases & Cloud Hosting
@@ -105,6 +114,10 @@ Here are some ideas to get you started:
    <a><img alt="Netlify" src="https://img.shields.io/badge/-Netlify-green"></a>
   &emsp;
    <a><img alt="CloudFlare" src="https://img.shields.io/badge/-Cloudflare-yellowgreen"></a>
+   &emsp;
+    <a><img alt="Firebase" src="https://img.shields.io/badge/Firebase-orange"></a>
+&emsp;
+   <a><img alt="Mongo DB" src="https://img.shields.io/badge/-Mongo%20DB-darkgreen"></a>
  </p>
 
  ### 👉 Software & Tools
