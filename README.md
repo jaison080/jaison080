@@ -156,8 +156,5 @@ Here are some ideas to get you started:
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git Profile Trophies</p><br>
 <img src="https://github-profile-trophy.vercel.app/?username=jaison080&theme=juicyfresh&no-bg=true" />
 
-![jaison080's github activity graph](https://activity-graph.herokuapp.com/graph?username=jaison080&theme=react-dark)
-
-
 -----
 Credits: [Jaison Dennis](https://github.com/jaison080)
