@@ -156,5 +156,7 @@ Here are some ideas to get you started:
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git Profile Trophies</p><br>
 <img src="https://github-profile-trophy.vercel.app/?username=jaison080&theme=juicyfresh&no-bg=true" />
 
+[![jaison080's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jaison080&bg_color=000000&color=49a835&line=57e389&point=e01b24&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 -----
 Credits: [Jaison Dennis](https://github.com/jaison080)
